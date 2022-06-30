@@ -1,0 +1,21 @@
+﻿id,first_name,last_name,address,age,email,gender,phone
+1,Leia,Norris,6836 Johnston Ave Reevesville South Carolina(SC) 29471,29,leia.norris@hotmail.com,female,(843) 563-9685
+2,Sadie,Johnson,151 Hilltop Rd Goldonna Louisiana(LA) 71031,43,sadie.johnson@gmail.com,female,(318) 727-4959
+3,Jose,Newman,10562 Arleta Ave Mission Hills California(CA) 91345,56,jose.newman@hotmail.com,male,(818) 897-3613
+4,Liberty,Hart,884 Davis St #303 San Leandro California(CA) 94577,73,liberty96@hotmail.com,female,(510) 568-5566
+5,Bella,Wong,2705 Big Buck Dr Lewiston Michigan(MI) 49756,28,bella.wong@gmail.com,female,(989) 786-4312
+6,Caitlin,Houston,400 Lucas Ave Laurens South Carolina(SC) 29360,39,caitlin95@gmail.com,female,(864) 984-0971
+7,Sara,Armstrong,23 Toyon Dr Woodland California(CA) 95695,44,sara.armstrong@gmail.com,female,(530) 662-6000
+8,Sinead,Rose,303 Longhorn Rd Maud Texas(TX) 75567,60,sinead.rose@hotmail.com,female,(903) 671-7774
+9,Priya,Yang,150 Barren Hill Rd Conshohocken Pennsylvania(PA) 19428,63,priya@gmail.com,female,(610) 832-1180
+10,Ray,Owens,Marilyn Shasta Lake California(CA) 96019,58,ray.o@gmail.com,male,(530) 275-8399
+11,Alex,Nelson,Marin Salinas California(CA) 93906,53,alex.nelson@hotmail.com,male,(831) 975-4407
+12,Angus,Love,Maui Fair Oaks California(CA) 95628,23,angus@gmail.com,male,(916) 967-9026
+13,Eric,Hansen,Miners Ranch Rd Oroville California(CA) 95966,17,hansen@gmail.com,male,(530) 538-9108
+14,Aiden,Moran,Mount Elizabeth Dr Twain Harte California(CA) 95383,21,a.moran@gmail.com,male,(209) 928-1769
+15,Abdul,Rees,N Finance Dept #10455 INVESTM Rancho Cordova California(CA) 95670,36,abdul.rees@hotmail.com,male,(916) 803-5883
+16,Freddy,Cunningham,N Parish Pl Burbank California(CA) 91501,80,freddy@gmail.com,male,(831) 298-7200
+17,Charles,Stokes,N Sunset Cir Rialto California(CA) 92376,72,charles.s@gmail.com,male,(909) 873-5262
+18,Marco,Klein,Nason Rd Carmel Valley California(CA) 93924,66,marco.klein@hotmail.com,male,(818) 953-7403
+19,Ciaran,Schneider,1222 Noble Rd E Shiloh Ohio(OH) 44878,63,ciaran.schneider@gmail.com,male,(419) 895-3132
+20,Oskar,Cross,5340 Stillwater Blvd N Stillwater Minnesota(MN) 55082,47,oskar.cross@hotmail.com,male,(610) 286-0274
